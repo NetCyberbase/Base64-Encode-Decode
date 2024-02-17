@@ -2,4 +2,9 @@
 
 A Small Fast and Easy Online Base64 Encode/Decode Tool
 
-Available At: ((https://netcyberbase.com/base64-decode/)https://netcyberbase.com/base64-decode/)
+**Available At**: 
+
+**Decode**: (https://netcyberbase.com/base64-decode/)
+
+**Encode**: (https://netcyberbase.com/base64-encode/)
+
