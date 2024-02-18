@@ -8,7 +8,7 @@ A Small Fast and Easy Online Base64 Encode/Decode Tool
 
 **Encode**: https://netcyberbase.com/base64-encode/
 
-Tested and all functions are workinhg.
+Tested and all functions are working.
 
 **Features**
 
